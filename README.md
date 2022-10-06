@@ -14,9 +14,13 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog]()
-* [LinkedIn]()
-* [Medium]()
+* [Blog](...)
+* [LinkedIn](https://www.linkedin.com/in/alex-da-silva-agra/)
+* [facebook](https://www.facebook.com/agra.alex/)
+* [Instagram](https://www.instagram.com/_agra_2022/)
+* [Telegram](https://t.me/devAgra88)
+* [email](alex.agra1988@gmail.com)
+
 
 
 ## Projetos:
