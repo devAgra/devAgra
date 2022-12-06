@@ -21,17 +21,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * [Telegram](https://t.me/devAgra88)
 * [email](alex.agra1988@gmail.com)
 
-
-
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2
-* **Como Implementar Regressão Linear com Python:** https://bit.ly
-* **Data Science: Investigando o naufrágio do Titanic:** https://b
-* **Como Tratar Dados Ausentes com Pandas:** https://bit
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.l
-* **Como criar uma Wordcloud em Python:** https://bi
-* **Como lidar com dados desbalanceados:** https://
-
 ---
