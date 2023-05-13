@@ -9,7 +9,6 @@
 **Background in:** Html, Css, Python, Machine Learning and Games.
 
 **Links:**
-* [Blog](...)
 * [LinkedIn](https://www.linkedin.com/in/alex-da-silva-agra/)
 * [facebook](https://www.facebook.com/agra.alex/)
 * [Instagram](https://www.instagram.com/_agra_2022/)
