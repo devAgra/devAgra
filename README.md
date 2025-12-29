@@ -45,7 +45,7 @@ Eu adoro explorar a natureza e aprender sobre diferentes formações geológicas
 Javascript, HTML, CSS, Python, SQL, FastAPI...
 
 ## 🔗 Links
-[![portfolio](https://alex-agra.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alex-agra.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-agra/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alexagra9)
 [![twitter](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alexagra.geo/)
